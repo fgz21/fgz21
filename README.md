@@ -5,7 +5,7 @@
 
 I'm Francisco Gonzalez, a passionate Software Engineering 💻.
 
-<!-- TODO: Add last video link -->
+
 
 - :seedling: I’m currently learning about JavaScript.
 - :computer: Most used line of code `git commit -m "Initial Commit haha"`.
@@ -27,10 +27,9 @@ I'm Francisco Gonzalez, a passionate Software Engineering 💻.
 
 ### ⚙️ &nbsp; Git Analytics
  
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=NavodyaPasqual&theme=dark&show_icons=true" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NavodyaPasqual&theme=dark&layout=compact" width="410" /></p>
+<p><img align="center" src="" /></p>
+<p>&nbsp;<img align="center" src="" width="410" /></p>
 
 ------
-Credit: [NavodyaPasqual](https://github.com/NavodyaPasqual)
 
 Last Edited on: 30/01/2024
