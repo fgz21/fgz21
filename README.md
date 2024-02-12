@@ -8,7 +8,7 @@ I'm Francisco Gonzalez, a passionate Software Engineering 💻.
 
 
 - :seedling: I’m currently learning about JavaScript.
-- :computer: Most used line of code git commit -m "Initial Commit haha".
+- :computer: Most used line of code git commit -m "Initial Commit".
 - :speech_balloon: Ask me about anything.
 
 
